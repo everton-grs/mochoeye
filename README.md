@@ -1,7 +1,6 @@
 # Mochoeye
 
-**Mochoeye** is embedded software for the **ESP32-CAM** with **microSD** support, designed for **image capture, local storage, and browser-based management**.  
-It turns the device into a lightweight local image gallery accessible over Wi-Fi through a built-in web interface.
+**Mochoeye** is embedded software for the **ESP32-CAM** with **microSD** support, designed for **image capture, local storage, and browser-based management**. It turns the device into a lightweight local image gallery accessible over Wi-Fi through a built-in web interface.
 
 ## Features
 
